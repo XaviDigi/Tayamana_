@@ -1,4 +1,4 @@
-# 🎓 School Website -Tayamana 🎓
+# 🎓 School Website -- Tayamana 🎓
 
 This is a React-based website built for a school, providing various sections to inform visitors about the institution, its offerings, and services. The site is fully responsive and adjusts for mobile users seamlessly.
 
